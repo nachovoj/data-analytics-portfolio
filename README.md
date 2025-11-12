@@ -33,7 +33,7 @@ My work focuses on connecting **data, business, and technology** to transform co
 | Project | Description | Technologies | Repository |
 |----------|--------------|--------------|-------------|
 | Data Integration Pipeline (Web, API, SQL) | End-to-end workflow combining web scraping, API data collection, and SQL integration into a local database. Demonstrates skills in automation, data management, and reproducible documentation. | Python, pandas, requests, SQLite, Quarto | [View Repo](https://github.com/nachovoj/data-integration-pipeline) |
-| Project 2 – Coming Soon | Future project focused on data visualization and exploratory analysis, emphasizing storytelling and design clarity. | Python, seaborn, matplotlib | [View Repo](https://github.com/nachovoj/project-2) |
+| Autoregressive Modeling (Toeplitz & Yule–Walker) | Implementation of autoregressive time series modeling using Toeplitz matrices and the Yule–Walker equations. Explores how covariance structures can be used for efficient parameter estimation and signal reconstruction. | Python, NumPy, SciPy, Matplotlib, Quarto | [View Repo](https://github.com/nachovoj/autoregressive-modeling) |
 | Project 3 – Coming Soon | Future project in predictive modeling and forecasting, showcasing machine learning and model evaluation techniques. | Python, scikit-learn | [View Repo](https://github.com/nachovoj/project-3) |
 | Project 4 – Coming Soon | Future project in business intelligence and dashboard design, integrating data insights into strategic reporting tools. | Power BI, SQL | [View Repo](https://github.com/nachovoj/project-4) |
 
